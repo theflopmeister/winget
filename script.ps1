@@ -1,1 +1,1 @@
-winget upgrade blender
+winget upgrade putty
