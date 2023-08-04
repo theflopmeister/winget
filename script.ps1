@@ -1,1 +1,1 @@
-winget upgrade
+winget upgrade blender
